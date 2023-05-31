@@ -5,3 +5,8 @@ body {
     font-weight: bolder;
     background-color: beige;
 }
+
+h1, h2 {
+    color:blue;
+    text-decoration: blueviolet;
+}
