@@ -3,7 +3,7 @@ body {
      font-family: Georgia, 'Times New Roman', Times, serif;
      font-weight: bold;
      background-color: #96aa4d;
- 
+     
  }
 
  h1 {
@@ -54,8 +54,8 @@ h4 {
     background-color: #e5e4d7;
     padding: 10px;
     border-color: black;
-    border-width: 10px;
-    border-style: ridge;
+    border-width: 5px;
+    border-style: solid;
     
 }
 
@@ -63,12 +63,14 @@ h5 {
     color: purple;
     font-weight: bold;
     background-color: #e5e4d7;
-    padding: 10px;
+    padding: 5px;
     border-color: black;
     border-width: 5px;
     border-style: ridge;
     margin: 30px;
-    margin-top: 50px;
-    margin-left: 200px;
+    margin-top: 20px;
+    margin-left: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
     
 }
