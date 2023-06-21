@@ -2,7 +2,7 @@ body {
 
      font-family: Georgia, 'Times New Roman', Times, serif;
      font-weight: bold;
-     background-color: #96aa4d;
+     background-color: goldenrod;
      
  }
 
@@ -62,7 +62,7 @@ h4 {
 h5 {
     color: purple;
     font-weight: bold;
-    background-color: #e5e4d7;
+    background-color: bisque;
     padding: 5px 5px 5px 5px;
     border-color: black;
     border-width: 5px;
@@ -85,4 +85,19 @@ h5 {
     border-width: 4px;
     border-style: solid;
 
+}
+
+h6  {
+    color: purple;
+    font-weight: bold;
+    background-image: url(cloud.jpeg);
+    padding: 5px 5px 5px 5px;
+    border-color: black;
+    border-width: 5px;
+    border-style: ridge;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
