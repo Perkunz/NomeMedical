@@ -2,24 +2,27 @@ body {
 
      font-family: Georgia, 'Times New Roman', Times, serif;
      font-weight: bold;
-     background-color: goldenrod;
+     background-color: antiquewhite;
+     color: blue;
      
  }
 
  h1 {
-    color:blue;
+
     text-decoration: rgb(120, 91, 148);
+    text-align: center;
 }
 h2 {
 
-    color: rgb(228, 96, 8);
     text-decoration: underline;
+    text-align: center;
 }
 label {
-    color: rgb(9, 88, 9)87, 214, 187)87, 214, 187)87, 214, 187)87, 214, 187)87, 214, 187)87, 214, 187);
+    color: greenyellow;
     font-size: 20px;
     font-family: monospace;
 }
+
 tr {
     color: rgb(129, 16, 16);
     font-size: 20px;
@@ -48,38 +51,38 @@ legend {
     font-size: 28px;
 }
 
-h4 {
+
+p.paragraph {
     color: rgb(10, 10, 10);
     font-weight: bold;
-    background-color: #e5e4d7;
+    background-image: url(clouds.gif);
     padding: 5px;
     border-color: black;
-    border-width: 5px;
-    border-style: solid;
-    
+    border-width: thick;
+    border-style: double;
+    border-radius: 10px;
+    border-bottom-style: dashed;
+    border-bottom-color: red;
+
 }
 
-h5 {
-    color: purple;
+#paragraph2{
+    color: rgb(20, 20, 20);
     font-weight: bold;
-    background-color: bisque;
-    padding: 5px 5px 5px 5px;
-    border-color: black;
-    border-width: 5px;
-    border-style: ridge;
-    margin: 10px;
-    margin-top: 20px;
-    margin-left: 50px;
-    padding-left: 40px;
-    padding-right: 40px;    
-}
+    background-image: url(cloud.jpeg);
+    padding: 5px;
+    border-color: rgb(13, 190, 52);
+    border-width: 2px;
+    border-style: inset;
+    margin: 20px
 
+}
 .imagec {
 
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 5px 5px 5px 5px;
+    padding: 5px 5px 2px 2px;
     background-color: gold;
     border-color: black;
     border-width: 4px;
@@ -87,17 +90,14 @@ h5 {
 
 }
 
-h6  {
-    color: purple;
-    font-weight: bold;
-    background-image: url(cloud.jpeg);
-    padding: 5px 5px 5px 5px;
-    border-color: black;
-    border-width: 5px;
-    border-style: ridge;
-    margin: 10px;
-    margin-top: 20px;
-    margin-left: 50px;
-    padding-left: 40px;
-    padding-right: 40px;
+
+.highlight {
+    background-color: chartreuse;
+}
+#divmain{
+    color: rgb(20, 20, 20);
+}
+
+#divbass{
+    color: rgb(20, 20, 20);
 }
