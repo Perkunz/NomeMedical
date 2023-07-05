@@ -18,13 +18,13 @@ h2 {
     text-align: center;
 }
 label {
-    color: greenyellow;
+    color: rgb(12, 15, 8);
     font-size: 20px;
     font-family: monospace;
 }
 
 tr {
-    color: rgb(129, 16, 16);
+    color: rgb(4, 252, 116);
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
