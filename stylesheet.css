@@ -12,7 +12,7 @@ body {
     text-decoration: rgb(120, 91, 148);
     text-align: center;
 }
-h2 {
+h2 { 
 
     text-decoration: underline;
     text-align: center;
@@ -87,9 +87,20 @@ p.paragraph {
     border-color: black;
     border-width: 4px;
     border-style: solid;
-
+    text-align: right;
 }
+.imagec2 {
 
+    display: ruby-text-container;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 5px 2px 2px;
+    background-color: gold;
+    border-color: black;
+    border-width: 4px;
+    border-style: dotted;
+    text-align: left;
+}
 
 .highlight {
     background-color: chartreuse;
@@ -99,5 +110,5 @@ p.paragraph {
 }
 
 #divbass{
-    color: rgb(20, 20, 20);
+    color: rgb(12, 50, 95);
 }
