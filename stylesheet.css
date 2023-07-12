@@ -45,7 +45,7 @@ p {
 
 .purple {
     color: purple;
-    font-size: 30px;
+    font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -119,4 +119,8 @@ p.paragraph {
 
 #divbass{
     color: rgb(12, 50, 95);
+}
+#divcontent { 
+
+    color: darkcyan;
 }
