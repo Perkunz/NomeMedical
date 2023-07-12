@@ -10,12 +10,20 @@ body {
  h1 {
 
     text-decoration: rgb(120, 91, 148);
+    text-decoration: underline;
     text-align: center;
 }
 h2 { 
 
     text-decoration: underline;
     text-align: center;
+}
+
+h3 {
+    
+    text-decoration: underline;
+    text-align: center;
+
 }
 label {
     color: rgb(12, 15, 8);
