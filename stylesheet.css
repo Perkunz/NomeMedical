@@ -167,9 +167,19 @@ a:hover {
 }
 #div5{
     background-color: rgb(17, 17, 22);
-    color: crimson;
+    color: rgb(246, 249, 250);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
 }
-
+#div6 {
+    background-color: green;
+    color: burlywood;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    height: 120px;
+}
 
 
 
