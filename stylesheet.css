@@ -14,6 +14,7 @@ body {
     text-decoration: underline;
     text-align: center;
 }
+
 h2 { 
 
     text-decoration: underline;
@@ -37,6 +38,7 @@ tr {
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 p {
     font-style: inherit;
     color: black
@@ -126,14 +128,18 @@ p.paragraph {
 }
 #divcontent { 
 
-    background-color: darkblue;
+    background-color: black;
     color: white;
     border-radius: 5px;
     padding: 10px;
     margin: 20px;
 }
+
 .image {
+
     float: left;
+    margin-right: 10px;
+
 }
 a:link {
 
@@ -163,17 +169,19 @@ a:hover {
 }
 
 #div4 {
+
     background-color: rgb(17, 16, 16);
     color: rgb(250, 250, 248);
-    width: 50%;
-    float: right;
+
 }
 
 #paragraph3 {
+
     background-color: green;
     color: yellow;
 
 }
+
 #div5{
     background-color: rgb(17, 17, 22);
     color: rgb(246, 249, 250);
@@ -193,11 +201,14 @@ a:hover {
 }
 
 #divalign {
+
     background-color: darkblue;
+    font-size: 300px;
     color: white;
     border-radius: 5px;
     padding: 10px;
-    margin: 20px;
+    margin: 10px;
+    
 }
 
 
