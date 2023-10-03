@@ -211,9 +211,24 @@ a:hover {
     
 }
 
+li a {
 
+    color: white;
+    display: block;
+}
 
+nav {
 
+    background-color: green;
+    border-radius: 5px;
+}
+
+li a:hover {
+
+    background: white;
+    position: relative;
+    top: -. 3em;
+}
 
 
 
